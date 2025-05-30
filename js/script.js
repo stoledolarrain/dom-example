@@ -3,8 +3,14 @@ const personas = [
   {
     nombre: "Juan Perez",
     edad: 18,
-    email: "stoledolarrain@gmail.com"
+    email: "juan.perez@gmail.com"
   },
+  {
+    nombre: "Maria Loza",
+    edad: 21,
+    email: "maria.loza@gmail.com"
+  }
+
 
 ];
 function esEmailValido(email){
